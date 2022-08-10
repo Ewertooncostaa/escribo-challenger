@@ -1,8 +1,13 @@
 Teste Escribo
 
-Para iniciar o programa em DART é necessário ter o instalador no Computador.
+Para iniciar o programa é necessário instalar o DART no Computador.
 
-Executar o CMD dentro da pasta, após isso inserir o código:
+Passos para instalar o DART:
+
+1 - Siga os passos para instalar o Chocolatey no link: https://chocolatey.org/install
+2 - Após instalado, inserir o comando no CMD como administrador (ou usar o PowerShell):  choco install dart-sdk
+
+Abrir o CMD dentro da pasta onde está o arquivo do teste, após isso inserir o código:
 
 "dart run teste.dart" (sem as aspas)
 
