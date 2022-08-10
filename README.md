@@ -2,7 +2,7 @@ Teste Escribo
 
 Para iniciar o programa em DART é necessário ter o instalador no Computador.
 
-Executei o CMD dentro da pasta, após isso inserir o código:
+Executar o CMD dentro da pasta, após isso inserir o código:
 
 "dart run teste.dart" (sem as aspas)
 
